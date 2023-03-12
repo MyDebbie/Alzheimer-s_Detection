@@ -2,9 +2,9 @@
 A desktop application with tkinter and include Machine Learning to detect what is the Alzheimer's stage of a brain image.
 
 ## User Stories
--[x] User can click on a button to go the computer drive.
+- [x] User can click on a button to go the computer drive.
 - [x] Upload an image of the brain.
--[x] The image will be display on the screen with the stage of the Alzheimer.
+- [x] The image will be display on the screen with the stage of the Alzheimer.
 
 ## Video Walkthrough
 
