@@ -15,9 +15,11 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap].
 
 ## Libraries used
-- [Kaggle](https://www.kaggle.com/) -Dataset
-- [Numpy](https://www.kaggle.com/) -Dataset
-- [Seaborn](https://www.kaggle.com/) -Dataset
-- [Matplotlib](https://www.kaggle.com/) -Dataset
-- [Pandas](https://www.kaggle.com/) -Dataset
-- [Tensorflow](https://www.kaggle.com/) -Dataset
+- [Kaggle](https://www.kaggle.com/)
+- [Numpy](https://numpy.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [PIL](https://pypi.org/project/Pillow/)
+- [Tkinter](https://docs.python.org/fr/3/library/tkinter.html)
+- [Tensorflow](https://www.tensorflow.org/)
