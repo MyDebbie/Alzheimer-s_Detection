@@ -16,3 +16,8 @@ GIF created with [LiceCap].
 
 ## Libraries used
 - [Kaggle](https://www.kaggle.com/) -Dataset
+- [Numpy](https://www.kaggle.com/) -Dataset
+- [Seaborn](https://www.kaggle.com/) -Dataset
+- [Matplotlib](https://www.kaggle.com/) -Dataset
+- [Pandas](https://www.kaggle.com/) -Dataset
+- [Tensorflow](https://www.kaggle.com/) -Dataset
