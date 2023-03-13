@@ -20,6 +20,6 @@ GIF created with [LiceCap].
 - [Seaborn](https://seaborn.pydata.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [Pandas](https://pandas.pydata.org/)
-- [PIL](https://pypi.org/project/Pillow/)
+- [Pillow](https://pypi.org/project/Pillow/)
 - [Tkinter](https://docs.python.org/fr/3/library/tkinter.html)
 - [Tensorflow](https://www.tensorflow.org/)
